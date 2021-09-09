@@ -5,8 +5,13 @@
     width: 98%;
 }
 
-img {
+.right {
     float: right;
     padding-right: 30px;
     padding-left: 30px;
+}
+
+.center {
+    display: flex;
+    margin: 0 auto;
 }
