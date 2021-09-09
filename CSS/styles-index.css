@@ -1,0 +1,11 @@
+.marginDIV {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    width: 98%;
+}
+
+.round {
+    display: flex;
+    border-radius: 130px;
+}
