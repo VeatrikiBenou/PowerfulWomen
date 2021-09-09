@@ -11,7 +11,7 @@
     padding-left: 30px;
 }
 
-.center {
+.align-center {
     display: flex;
     margin: 0 auto;
 }
