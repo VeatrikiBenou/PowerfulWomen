@@ -9,3 +9,19 @@
     display: flex;
     border-radius: 130px;
 }
+
+.rights {
+    width: 600px;
+    height: 400px;
+    padding-left: 30px;
+}
+
+.roar {
+    width: 500px;
+    height: 500px;
+}
+
+.limit {
+    width: 400px;
+    height: 400px;
+}
